@@ -1,0 +1,11 @@
+venv/
+
+# Large genomic data
+*.fa
+*.fa.gz
+*.fai
+*.vcf.gz
+
+# Python cache
+__pycache__/
+*.pyc
